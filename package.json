@@ -1,0 +1,17 @@
+{
+  "name": "beta-test",
+  "version": "1.0.0",
+  "description": "This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.0.2",
+    "chalk": "^4.1.2",
+    "leaf-utils": "^1.0.9"
+  }
+}
