@@ -1,6 +1,6 @@
 module.exports = {
     Bot: {
-        token: 'OTA5NzQwMzcxNTExMjE0MDgw.YZIrvg.lO-q38jkqFhLbl3yvSLnyswqM1E',
+        token: process.env.TOKEN,
         prefix: "$getServerVar[prefix]",
         intents: "all",
         database: {
