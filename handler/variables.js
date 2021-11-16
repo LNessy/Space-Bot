@@ -8,5 +8,5 @@ module.exports = (bot) => {
         snipe_date: '',
         snipe_channel: '',
         color: 'BLACK'
-    }, "atom")
+    }, "Space")
 }
