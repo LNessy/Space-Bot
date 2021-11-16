@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoi.js": "^5.0.2",
+    "aoi.js": "^5.0.3",
     "chalk": "^4.1.2",
     "leaf-utils": "^1.0.9"
   }
