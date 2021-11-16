@@ -1,12 +1,12 @@
 module.exports = {
     Bot: {
-        token: process.env.TOKEN,
-        prefix: "$getServerVar[prefix]",
+        token: "Token",
+        prefix: "Prefix",
         intents: "all",
         database: {
             type: "default",
             path: "./db/",
-            tables: ["atom"],
+            tables: ["Space"],
             promisify: false
         },
         respondOnEdit: {
